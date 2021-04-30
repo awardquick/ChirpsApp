@@ -1,0 +1,2 @@
+DROP DATABASE IF EXISTS chirpapp;
+CREATE DATABASE chirpapp;
